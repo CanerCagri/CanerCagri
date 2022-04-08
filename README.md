@@ -5,6 +5,8 @@
 
 - 🤝 I’m looking for help with **SwiftUI**
 
+- 🥅 2022 Goals: Learn more about **web3**
+
 - 💬 Ask me about **UIKit**
 
 - 📫 How to reach me **canerrcagrii@gmail.com**

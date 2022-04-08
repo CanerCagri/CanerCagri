@@ -7,7 +7,7 @@
 
 - 🥅 2022 Goals: Learn more about **web3**
 
-- 💬 Ask me about **UIKit**
+- 💬 Ask me about anything **UIKit**
 
 - 📫 How to reach me **canerrcagrii@gmail.com**
 

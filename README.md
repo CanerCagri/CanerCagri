@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Caner Çağrı</h1>
-<h3 align="center">I'm a self-taught iOS Developer</h3>
+<h3 align="left">Hi there👋 </h3>
+<h3 align="left">I'm a self-taught iOS Developer</h3>
+
 
 - 🌱 I’m currently learning **SwiftUI**
 

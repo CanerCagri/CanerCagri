@@ -2,7 +2,7 @@
 <h3 align="left">I'm a self-taught iOS Developer</h3>
 
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **UIKit**
 
 - 🤝 I’m looking for help with **SwiftUI**
 

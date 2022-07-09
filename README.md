@@ -8,7 +8,7 @@
 
 - 🥅 2022 Goals: Learn more about **web3**
 
-- 💬 Ask me about anything **UIKit**
+- 💬 I decided to share what I learned in the iOS learning process, by writing blog. **https://medium.com/@canerrcagrii**
 
 - 📫 How to reach me **canerrcagrii@gmail.com**
 

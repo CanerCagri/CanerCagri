@@ -1,4 +1,4 @@
-<h2 align="left">Hi there👋 </h2>
+<h2 align="left">Hello, I'm Caner.👋 </h2>
 <h3 align="left">I'm a self-taught iOS Developer</h3>
 
 

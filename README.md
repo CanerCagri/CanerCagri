@@ -2,11 +2,11 @@
 <h3 align="left">I'm a self-taught iOS Developer</h3>
 
 
-- 🌱 I’m currently learning **UIKit**
+- 🌱 I’m currently learning **Viper Architecture**
 
 - 🤝 I’m looking for help with **SwiftUI**
 
-- 🥅 2022 Goals: Learn more about **web3**
+- 🥅 2023 Goals: Learn more about **ARKit and CoreML**
 
 - 💬 I decided to share what I learned in the iOS learning process, by writing blog. **https://medium.com/@canerrcagrii**
 

@@ -1,10 +1,16 @@
-<h2 align="left">Hello, I'm Caner.👋 </h2>
-<h3 align="left">I'm a self-taught iOS Developer</h3>
+# 👋 Hi, I'm Caner
 
 
-- 🌱 I’m currently learning **Viper Architecture**
+### 💼 **[My GitHub Portfolio](https://github.com/CanerCagri/iOS-Developer-Portfolio)**
 
-- 🤝 I’m looking for help with **SwiftUI**
+<div style="display:flex;justify-content:center;">
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/canercagri?logo=twitter&style=for-the-badge)](https://twitter.com/canercagri)
+ </div>
+
+---
+
+- 💻 I started teaching myself iOS Development in 2022
 
 - 🥅 2023 Goals: Learn more about **ARKit and CoreML**
 
